@@ -1,1 +1,1 @@
-![alt text](Puctures/picsie.jpg)
+![](Puctures/picsie.jpg)
