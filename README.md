@@ -1,2 +1,1 @@
-# picsie
-Simple tool to hide any information into picture
+![alt text](Puctures/picsie.jpg)
