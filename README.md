@@ -1,1 +1,1 @@
-![alt text](https://github.com/levveez/picsie/Puctures/picsie.jpg)
+![alt text](https://github.com/levveez/picsie/blob/main/Pictures/picsie.jpg)
