@@ -5,7 +5,7 @@
 # 🔰About Picsie
 Picsie is an opensource program that can hide any information in your .png picture.
 
-# 🔰Hot to use
+# 🔰How to use
 1. First of all you need to install program. You can do it with 'git clone' or just download files.
 2. Create zip-file with information that you want to hide.
 3. After downloading transfer the image and zip-file to program's directory.
